@@ -1,0 +1,7 @@
+[package]
+name = "negative_sampling"
+version = "0.1.0"
+authors = ["LysandreJik <lysandre.debut@reseau.eseo.fr>"]
+edition = "2018"
+
+[dependencies]
